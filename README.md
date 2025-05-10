@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   🚀 Hi, I'm <span style="color: #F35626; background: linear-gradient(to right, #F35626, #FEAB3A); background-clip: text; color: transparent;">Vishal Kumar</span> 👋
 </h1>
 
