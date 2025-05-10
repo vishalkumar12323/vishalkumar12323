@@ -6,13 +6,13 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate **Backend Software Developer** with 2+ years of experience, specializing in **Node.js**, **React.js**, and modern web technologies. I build scalable, secure, and efficient applications using the MERN stack and PostgreSQL, and I enjoy contributing to full-stack projects, learning new tools, and building production-ready applications with clean architecture.
+I'm a passionate **Full-Stack Web Developer** with 2+ years of experience, specializing in **Node.js**, **React.js**, and modern web technologies. I build scalable, secure, and efficient applications using the MERN stack and PostgreSQL, and I enjoy contributing to full-stack projects, learning new tools, and building production-ready applications with clean architecture.
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/vishal-ninaniya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -31,7 +31,7 @@ I'm a passionate **Backend Software Developer** with 2+ years of experience, spe
 
 ### 🛠️ My Skills & Tools
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
