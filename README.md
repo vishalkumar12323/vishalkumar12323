@@ -1,5 +1,5 @@
 <h1>
-  🚀 Hi, I'm <span style="color: #F35626; background: linear-gradient(to right, #F35626, #FEAB3A); background-clip: text; color: transparent;">Vishal Kumar</span> 👋
+  Hi, I'm <span style="color: #F35626; background: linear-gradient(to right, #F35626, #FEAB3A); background-clip: text; color: transparent;">Vishal Kumar</span> 👋
 </h1>
 
 ---
@@ -22,7 +22,7 @@ I'm a passionate **Full-Stack Web Developer** with 2+ years of experience, speci
   <a href="https://wa.me/918949087009" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="mailto:vishalninaniya894info@gmail.com" target="_blank">
+  <a href="mailto:itsvishal774@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
